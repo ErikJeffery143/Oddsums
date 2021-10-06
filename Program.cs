@@ -26,10 +26,11 @@ namespace Part_6_Percentages
             }
             else
             {
-                Console.WriteLine("Read better.");
+                Console.WriteLine("Read better. ");
             }
 
             Console.ReadLine();
+
 
 
 
